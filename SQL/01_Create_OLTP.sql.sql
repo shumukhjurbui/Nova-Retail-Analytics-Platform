@@ -2,7 +2,7 @@
 =========================================================
 Project Name : Nova Retail Analytics Platform
 Database     : NovaRetail_OLTP
-Author       : Your Name
+Author       : Shumukh Jurbui
 SQL Server   : Microsoft SQL Server
 Version      : 1.0
 Description  : Create OLTP Database Structure
